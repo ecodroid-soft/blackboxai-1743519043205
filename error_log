@@ -1,0 +1,29 @@
+[01-Apr-2025 11:19:30 UTC] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[01-Apr-2025 11:19:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ecodroids/public_html/devil/admin/db_config.php:57
+Stack trace:
+#0 /home/ecodroids/public_html/devil/index.php(11): GameManager->getAllGames()
+#1 {main}
+  thrown in /home/ecodroids/public_html/devil/admin/db_config.php on line 57
+[01-Apr-2025 11:19:34 UTC] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[01-Apr-2025 11:19:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ecodroids/public_html/devil/admin/db_config.php:57
+Stack trace:
+#0 /home/ecodroids/public_html/devil/index.php(11): GameManager->getAllGames()
+#1 {main}
+  thrown in /home/ecodroids/public_html/devil/admin/db_config.php on line 57
+[01-Apr-2025 11:20:08 UTC] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[01-Apr-2025 11:20:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ecodroids/public_html/devil/admin/db_config.php:57
+Stack trace:
+#0 /home/ecodroids/public_html/devil/results.php(13): GameManager->getAllGames()
+#1 {main}
+  thrown in /home/ecodroids/public_html/devil/admin/db_config.php on line 57
+[01-Apr-2025 11:22:18 UTC] Connection Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+[01-Apr-2025 11:22:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ecodroids/public_html/devil/admin/db_config.php:57
+Stack trace:
+#0 /home/ecodroids/public_html/devil/results.php(13): GameManager->getAllGames()
+#1 {main}
+  thrown in /home/ecodroids/public_html/devil/admin/db_config.php on line 57
+[01-Apr-2025 11:24:41 UTC] Error getting games: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecodroids_devil.games' doesn't exist
+[01-Apr-2025 11:24:41 UTC] Error getting today's results: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecodroids_devil.results' doesn't exist
+[01-Apr-2025 11:24:42 UTC] Error getting games: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecodroids_devil.games' doesn't exist
+[01-Apr-2025 11:24:42 UTC] Error getting today's results: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecodroids_devil.results' doesn't exist
+[01-Apr-2025 11:24:42 UTC] Error getting historical results: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecodroids_devil.results' doesn't exist
