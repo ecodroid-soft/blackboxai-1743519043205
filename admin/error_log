@@ -1,0 +1,22 @@
+[01-Apr-2025 16:58:28 Asia/Kolkata] PHP Notice:  Undefined variable: allGames in /home/ecodroids/public_html/devil/admin/dashboard.php on line 155
+[01-Apr-2025 16:58:28 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ecodroids/public_html/devil/admin/dashboard.php on line 155
+[01-Apr-2025 16:58:56 Asia/Kolkata] PHP Notice:  Undefined variable: allGames in /home/ecodroids/public_html/devil/admin/dashboard.php on line 155
+[01-Apr-2025 16:58:56 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ecodroids/public_html/devil/admin/dashboard.php on line 155
+[01-Apr-2025 16:59:16 Asia/Kolkata] PHP Notice:  Undefined variable: allGames in /home/ecodroids/public_html/devil/admin/dashboard.php on line 155
+[01-Apr-2025 16:59:16 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ecodroids/public_html/devil/admin/dashboard.php on line 155
+[01-Apr-2025 16:59:16 Asia/Kolkata] PHP Notice:  Undefined index: game in /home/ecodroids/public_html/devil/admin/dashboard.php on line 226
+[01-Apr-2025 16:59:22 Asia/Kolkata] PHP Notice:  Undefined variable: allGames in /home/ecodroids/public_html/devil/admin/dashboard.php on line 155
+[01-Apr-2025 16:59:22 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ecodroids/public_html/devil/admin/dashboard.php on line 155
+[01-Apr-2025 16:59:22 Asia/Kolkata] PHP Notice:  Undefined index: game in /home/ecodroids/public_html/devil/admin/dashboard.php on line 226
+[01-Apr-2025 16:59:31 Asia/Kolkata] PHP Notice:  Undefined variable: allGames in /home/ecodroids/public_html/devil/admin/dashboard.php on line 155
+[01-Apr-2025 16:59:31 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ecodroids/public_html/devil/admin/dashboard.php on line 155
+[01-Apr-2025 16:59:31 Asia/Kolkata] PHP Notice:  Undefined index: game in /home/ecodroids/public_html/devil/admin/dashboard.php on line 226
+[01-Apr-2025 17:01:52 Asia/Kolkata] PHP Notice:  Undefined variable: allGames in /home/ecodroids/public_html/devil/admin/dashboard.php on line 155
+[01-Apr-2025 17:01:52 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/ecodroids/public_html/devil/admin/dashboard.php on line 155
+[01-Apr-2025 17:01:52 Asia/Kolkata] PHP Notice:  Undefined index: game in /home/ecodroids/public_html/devil/admin/dashboard.php on line 226
+[01-Apr-2025 17:07:42 Asia/Kolkata] PHP Notice:  Undefined index: game in /home/ecodroids/public_html/devil/admin/dashboard.php on line 239
+[01-Apr-2025 17:13:01 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in /home/ecodroids/public_html/devil/admin/db_config.php on line 42
+[01-Apr-2025 17:13:01 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in /home/ecodroids/public_html/devil/admin/db_config.php on line 43
+[01-Apr-2025 17:15:40 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in /home/ecodroids/public_html/devil/admin/db_config.php on line 43
+[01-Apr-2025 17:15:40 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in /home/ecodroids/public_html/devil/admin/db_config.php on line 44
+[01-Apr-2025 17:15:40 Asia/Kolkata] Error adding game: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gm' for key 'games.name'
