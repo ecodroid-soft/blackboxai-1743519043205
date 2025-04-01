@@ -1,0 +1,9 @@
+[2025-04-01 15:57:48] User: unknown, IP: ::1, Action: add_result, Details: {"date":"2025-04-01","game":"FARIDABAD","number":"78","time":"18:00","status":"WIN"}
+[2025-04-01 16:59:16] User: unknown, IP: 103.181.110.5, Action: add_result, Details: {"date":"2025-04-01","game":"DS","number":"10","time":"17:59","status":"WIN"}
+[2025-04-01 16:59:22] User: unknown, IP: 103.181.110.5, Action: add_result, Details: {"date":"2025-04-01","game":"DS","number":"10","time":"17:59","status":"WIN"}
+[2025-04-01 16:59:31] User: unknown, IP: 103.181.110.5, Action: add_result, Details: {"date":"2025-04-01","game":"DS","number":"10","time":"17:59","status":"WIN"}
+[2025-04-01 17:13:01] User: unknown, IP: 103.181.110.5, Action: add_game, Details: Added game: GM
+[2025-04-01 17:20:08] User: unknown, IP: 103.181.110.5, Action: add_game, Details: Added game: Hara
+[2025-04-01 17:31:46] User: unknown, IP: 103.181.110.5, Action: add_result, Details: {"date":"2025-04-01","game":"HARA","number":"15","time":"17:32","status":"WIN"}
+[2025-04-01 17:32:13] User: unknown, IP: 103.181.110.5, Action: add_game, Details: Added game: sisa
+[2025-04-01 17:45:20] User: unknown, IP: 103.181.110.5, Action: add_result, Details: {"date":"2025-04-01","game":"FARIDABAD","number":"50","time":"17:50","status":"WIN"}
